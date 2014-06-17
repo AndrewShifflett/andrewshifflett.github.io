@@ -3,6 +3,7 @@ title: Andrew Shifflett
 email: shifflett@andrewshifflett.com
 description: "Personal website of Andrew Shifflett."
 url: "http://andrewshifflett.com"
+baseurl: ""
 
 # Build settings
 markdown: kramdown
